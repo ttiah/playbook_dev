@@ -84,9 +84,6 @@ sudo apt-get install virtualbox virtualbox-guest-utils virtualbox-ext-pack
 vagrant box add ubuntu/focal64
 ```
 
-### Vagrant 파일
-
-
 ### Vagrantfile 파일 작성
 
 ```
