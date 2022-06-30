@@ -85,13 +85,16 @@ vagrant box add ubuntu/focal64
 ```
 
 ### Vagrant 파일
+
+
+### Vagrantfile 파일 작성
+
 ```
 cd ~ 
 mkdir iac
 cd iac
 ```
 
-### Vagrantfile 파일 작성
 > Vagrantfile
 ```ruby
 # -*- mode: ruby -*-
